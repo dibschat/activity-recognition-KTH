@@ -5,7 +5,7 @@ Human Activity Recognition based on Summarized Semi-detailed Frame Information a
 ```sh
 python3 main.py process
 ```
-For e.g. if you want to process all the contextual features (described in the paper as C+D) the process section of the **`src/main.py`** is supposed to look like
+For e.g. if you want to process all the contextual features (described in the paper as C+D) the process section of the **`./src/main.py`** is supposed to look like
 ```python
 #a = motion_2x2(str)
 #b = motion_3x3(str)
@@ -24,19 +24,19 @@ b = np.concatenate((a,b,c,d), axis=0)
 The processed features get saved in the ./src/bin folder as a .npy file.
 
 # Training individual features
-Load the required numpy feature file from the ./src/bin folder and run on the terminal
+Load the required numpy feature file from the **`./src/bin`** folder and run on the terminal
 ```sh
 python3 main.py train
 ```
 
 # Training an ensemble of classifiers
-Load any 2 required numpy feature files from the ./src/bin folder and run on the terminal
+Load any 2 required numpy feature files from the **`./src/bin`** folder and run on the terminal
 ```sh
 python3 main.py train_ensemble
 ```
 
 # Create an ensemble of features (concatenation) from any two individual features
-Load any 2 required numpy feature files from the ./src/bin folder and run on the terminal
+Load any 2 required numpy feature files from the **`./src/bin`** folder and run on the terminal
 ```sh
 python3 main.py concat_features
 ```

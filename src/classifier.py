@@ -1,6 +1,4 @@
-import pandas as pd
 import numpy as np
-import imutils
 from sklearn.model_selection import cross_val_score, GridSearchCV
 from sklearn.model_selection import KFold
 from sklearn.preprocessing import LabelEncoder
@@ -9,9 +7,7 @@ import matplotlib.pyplot as plt
 from sklearn import datasets
 from sklearn.metrics import confusion_matrix
 from sklearn.model_selection import train_test_split
-from sklearn.svm import SVC, SVR
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.ensemble import RandomForestClassifier
+from sklearn.svm import SVC
 import matplotlib.pyplot as plt
 
 

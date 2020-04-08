@@ -1,13 +1,8 @@
 import os
 import sys
 import math
-import pandas as pd
 import numpy as np 
-import scipy
 import cv2
-import imutils
-from skimage import exposure, feature
-from shapely.geometry import Point, Polygon
 from classifier import SVM, SVM_grid, Ensemble
 from motion_2x2 import dense_flow as motion_2x2
 from motion_3x3 import dense_flow as motion_3x3

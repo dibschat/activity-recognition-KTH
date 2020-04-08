@@ -21,7 +21,7 @@ Within **`./src/main.py`**, following python files are available:
 * [contextual_3x3.py](src/contextual_3x3.py) This file contains the function that produces motion based contextual features when the POI is divided into 3x3 grids.
 * [contextual_4x4.py](src/contextual_4x4.py) This file contains the function that produces motion based contextual features when the POI is divided into 4x4 grids.
 * [orientation_features.py](src/orientation_features.py) This file contains the functions that produce orientation based (HOG) normal and contextual features i.e. features A and B as referred in the paper.
-* [clasifier.py](src/clasifier.py) This file contains the functions for training, testing and preparing data for Support Vector Machine (SVM).
+* [classifier.py](src/clasifier.py) This file contains the functions for training, testing and preparing data for Support Vector Machine (SVM).
 * [utils.py](src/utils.py) This file contains utility functions required for the proper function of the other files.
 
 Working

@@ -72,7 +72,7 @@ if __name__=="__main__":
 		# save the create feature in the bin directory
 		np.save("./bin/feature_vector_KTH_motion+HOG.npy", feature_vector)
 
-	elif(process=="train_concat"):# for concatenating individual features (+)
+	elif(process=="concat_features"):# for concatenating individual features (+)
 		feature_vector1 = np.load('./data/feature_vector_KTH_context_trio_central.npy')
 		feature_vector2 = np.load('./data/feature_vector_KTH_HOG_context_central.npy')
 

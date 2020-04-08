@@ -87,6 +87,7 @@ Motion Based Contextual Feature (D) | 84.87%
 A+B | 89.07%
 C+D | 87.34
 <b>(A+B)*(C+D)</b>| **92.00%**
+
 where 
 * + : Ensemble of features (Concatenation)
 * * : Ensemble of classifiers

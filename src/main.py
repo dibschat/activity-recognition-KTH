@@ -35,17 +35,17 @@ if __name__=="__main__":
 			is_first = True
 			for fname in fileList:				
 				str = dirName+'/'+fname
-				#a = motion_2x2(str)
-				#b = motion_3x3(str)
-				#c = motion_4x4(str)
-				#d = HOG_central(str)
+				a = motion_2x2(str)
+				b = motion_3x3(str)
+				c = motion_4x4(str)
+				d = HOG_central(str)
 				# an added context feature is also processed for motion to get consistency between the valid videos processed
-				#e, f_n = contextual_2x2(str)
+				e, f_n = contextual_2x2(str)
 
-				a, f_na = contextual_2x2(str)
-				b, f_nb = contextual_3x3(str)
-				c, f_nc = contextual_4x4(str)
-				d = HOG_context(str)
+				#a, f_na = contextual_2x2(str)
+				#b, f_nb = contextual_3x3(str)
+				#c, f_nc = contextual_4x4(str)
+				#d = HOG_context(str)
 
 				#b = np.concatenate((a,b), axis=0)
 				#b = np.concatenate((a,b,c), axis=0)

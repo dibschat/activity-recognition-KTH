@@ -89,5 +89,5 @@ C+D | 87.34
 <b>(A+B)*(C+D)</b>| **92.00%**
 
 where 
-* '+' : Ensemble of features (Concatenation)
-* '*' : Ensemble of classifiers
+* ' + ' : Ensemble of features (Concatenation)
+* ' * ' : Ensemble of classifiers

@@ -65,15 +65,9 @@ Results
 Features | Accuracy
 --------|--------
 Orientation Based (A)| 66.39%
-------|-----------
 Motion Based (B)| 88.23%
-------|-----------
 Orientation Based Contextual Feature (C) | 73.87%
-------|-----------
 Motion Based Contextual Feature (D) | 84.87%
-------|-----------
 A+B | 89.07%
-------|-----------
 C+D | 87.34
-------|-----------
 <b>(A+B)(C+D)</b>| 92.00%

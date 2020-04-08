@@ -3,11 +3,11 @@ Human Activity Recognition based on Summarized Semi-detailed Frame Information a
 
 Requirements
 ------------
-*Python3
-*Numpy
-*Matplotlib
-*OpenCV
-*sklearn
+* Python3
+* Numpy
+* Matplotlib
+* OpenCV
+* Sklearn
 
 Working
 -------
@@ -70,4 +70,4 @@ Orientation Based Contextual Feature (C) | 73.87%
 Motion Based Contextual Feature (D) | 84.87%
 A+B | 89.07%
 C+D | 87.34
-<b>(A+B)(C+D)</b>| 92.00%
+<b>(A+B)(C+D)</b>| **92.00%**

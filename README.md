@@ -91,3 +91,7 @@ C+D | 87.34
 where 
 * ' + ' : Ensemble of features (Concatenation)
 * ' * ' : Ensemble of classifiers
+
+Author
+-----
+[Dibyadip Chatterjee](https://chatdip98.github.io/)

@@ -92,6 +92,10 @@ where
 * ' + ' : Ensemble of features (Concatenation)
 * ' * ' : Ensemble of classifiers
 
+License
+-------
+MIT
+
 Author
 -----
 The code is written in its entirety by [Dibyadip Chatterjee](https://chatdip98.github.io/) under the supervision of [Prof. Sanjoy Kumar Saha](https://scholar.google.co.in/citations?user=MVooqJUAAAAJ&hl=en).

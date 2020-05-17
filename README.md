@@ -94,4 +94,4 @@ where
 
 Author
 -----
-[Dibyadip Chatterjee](https://chatdip98.github.io/)
+[Dibyadip Chatterjee](https://chatdip98.github.io/). All rights reserved.

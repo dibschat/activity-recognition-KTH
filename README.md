@@ -4,7 +4,9 @@ Human Activity Recognition based on Summarized Semi-detailed Frame Information a
 
 This repository contains code for our [CALCON 2020 paper](https://ieeexplore.ieee.org/document/9106564):
 ```
-D. Chatterjee, C. Arora, S. Chakraborty and S. K. Saha, "Human Activity Recognition based on Summarized Semi-detailed Frame Information and Contextual Features," 2020 IEEE Calcutta Conference (CALCON), Kolkata, India, 2020, pp. 127-131
+D. Chatterjee, C. Arora, S. Chakraborty and S. K. Saha, "Human Activity Recognition based on Summarized 
+Semi-detailed Frame Information and Contextual Features," 2020 IEEE Calcutta Conference (CALCON), 
+Kolkata, India, 2020, pp. 127-131
 ```
 
 If you find the code useful for your research, please cite our paper:

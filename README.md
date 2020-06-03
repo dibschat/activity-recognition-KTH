@@ -9,16 +9,16 @@ Semi-detailed Frame Information and Contextual Features," 2020 IEEE Calcutta Con
 Kolkata, India, 2020, pp. 127-131
 ```
 
-If you find the code useful for your research, please cite our paper:
+Please considering citing our paper if you find our code useful:
 ```
 @INPROCEEDINGS{9106564,  
-author={D. {Chatterjee} and C. {Arora} and S. {Chakraborty} and S. K. {Saha}},  
-booktitle={2020 IEEE Calcutta Conference (CALCON)},   
-title={Human Activity Recognition based on Summarized Semi-detailed Frame Information and Contextual Features},   
-year={2020},  
-volume={},  
-number={},  
-pages={127-131},}
+  author    = {D. {Chatterjee} and C. {Arora} and S. {Chakraborty} and S. K. {Saha}},  
+  booktitle = {2020 IEEE Calcutta Conference (CALCON)},   
+  title     = {Human Activity Recognition based on Summarized Semi-detailed Frame Information and Contextual Features},   
+  year      = {2020},  
+  volume    = {},  
+  number    = {},  
+  pages     = {127-131},}
 ```
 
 Requirements

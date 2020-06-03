@@ -2,6 +2,23 @@ activity-recognition-KTH
 ========================
 Human Activity Recognition based on Summarized Semi-detailed Frame Information and Contextual Features
 
+This repository contains code for our [CALCON 2020 paper](https://ieeexplore.ieee.org/document/9106564):
+```
+D. Chatterjee, C. Arora, S. Chakraborty and S. K. Saha, "Human Activity Recognition based on Summarized Semi-detailed Frame Information and Contextual Features," 2020 IEEE Calcutta Conference (CALCON), Kolkata, India, 2020, pp. 127-131
+```
+
+If you find the code useful for your research, please cite our paper:
+```
+@INPROCEEDINGS{9106564,  
+author={D. {Chatterjee} and C. {Arora} and S. {Chakraborty} and S. K. {Saha}},  
+booktitle={2020 IEEE Calcutta Conference (CALCON)},   
+title={Human Activity Recognition based on Summarized Semi-detailed Frame Information and Contextual Features},   
+year={2020},  
+volume={},  
+number={},  
+pages={127-131},}
+```
+
 Requirements
 ------------
 * Python3

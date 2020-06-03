@@ -1,6 +1,6 @@
 activity-recognition-KTH
 ========================
-## Human Activity Recognition based on Summarized Semi-detailed Frame Information and Contextual Features
+#### Human Activity Recognition based on Summarized Semi-detailed Frame Information and Contextual Features
 
 This repository contains code for our [CALCON 2020 paper](https://ieeexplore.ieee.org/document/9106564):
 ```

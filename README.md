@@ -18,7 +18,8 @@ Please considering citing our paper if you find our code useful:
   year      = {2020},  
   volume    = {},  
   number    = {},  
-  pages     = {127-131},}
+  pages     = {127-131},
+}
 ```
 
 Requirements

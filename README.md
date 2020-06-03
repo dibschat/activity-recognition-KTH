@@ -28,7 +28,7 @@ Requirements
 * Numpy
 * Matplotlib
 * OpenCV
-* Sklearn
+* sklearn
 
 File Structure
 --------------

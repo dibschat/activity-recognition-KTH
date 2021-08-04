@@ -118,4 +118,4 @@ MIT
 
 Author
 -----
-The code is written in its entirety by [Dibyadip Chatterjee](https://dibschat.github.io/) under the supervision of Prof. [Sanjoy Kumar Saha](https://scholar.google.co.in/citations?user=MVooqJUAAAAJ&hl=en).
+[Dibyadip Chatterjee](https://dibschat.github.io/)
